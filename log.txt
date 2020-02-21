@@ -14,3 +14,4 @@
 0134. ✨ feat: implement quiz timer feature
 0223. 🔧 refactor: remove redundant code blocks
 0275. 🎨 style: standardize quote style
+0100. ♻️ chore: update .gitignore
