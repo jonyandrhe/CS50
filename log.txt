@@ -23,3 +23,4 @@
 0837. 🚀 perf: cache repeated calculations
 0353. ♻️ chore: rename env.example
 0106. 🎨 style: reformat files with black
+0802. 🔧 refactor: remove redundant code blocks
