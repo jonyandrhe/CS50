@@ -25,3 +25,4 @@
 0106. 🎨 style: reformat files with black
 0802. 🔧 refactor: remove redundant code blocks
 0116. ✨ feat: support email verification
+0480. ♻️ chore: add GitHub actions badge
