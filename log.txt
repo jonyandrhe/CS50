@@ -41,3 +41,4 @@
 0572. ✨ feat: add user authentication
 0303. 🎨 style: rename variables for clarity
 0026. 🔧 refactor: clean up auth middleware
+0766. 🎨 style: reformat files with black
