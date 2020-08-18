@@ -45,3 +45,4 @@
 0489. 🔧 refactor: organize models into subfolders
 0810. 🔧 refactor: refactor quiz grading logic
 0274. 🔧 refactor: refactor quiz grading logic
+0680. ♻️ chore: add GitHub actions badge
