@@ -108,3 +108,4 @@
 0473. 📚 docs: write FAQ section
 0717. 🔧 refactor: refactor quiz grading logic
 0042. 📚 docs: document token refresh logic
+0876. ♻️ chore: rename env.example
