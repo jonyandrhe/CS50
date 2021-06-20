@@ -113,3 +113,4 @@
 0919. 🚀 perf: optimize database query for quiz results
 0169. 📚 docs: add API usage examples
 0565. ♻️ chore: add GitHub actions badge
+0653. 🐛 fix: prevent crash on empty input
