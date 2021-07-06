@@ -115,3 +115,4 @@
 0565. ♻️ chore: add GitHub actions badge
 0653. 🐛 fix: prevent crash on empty input
 0504. 📚 docs: document token refresh logic
+0798. 🚀 perf: reduce image load time
