@@ -119,3 +119,4 @@
 0057. 🚀 perf: optimize database query for quiz results
 0294. 🐛 fix: prevent crash on empty input
 0117. ✅ test: increase coverage on auth module
+0630. 🚀 perf: lazy-load components
