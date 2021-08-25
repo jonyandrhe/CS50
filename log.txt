@@ -127,3 +127,4 @@
 0182. 🔧 refactor: remove redundant code blocks
 0861. ♻️ chore: clean up unused files
 0484. 🐛 fix: handle 500 error in quiz API
+0960. ✅ test: increase coverage on auth module
