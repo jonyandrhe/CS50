@@ -129,3 +129,4 @@
 0484. 🐛 fix: handle 500 error in quiz API
 0960. ✅ test: increase coverage on auth module
 0705. 🔧 refactor: refactor quiz grading logic
+0644. 🎨 style: apply consistent indentation
