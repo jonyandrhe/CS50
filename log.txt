@@ -131,3 +131,4 @@
 0705. 🔧 refactor: refactor quiz grading logic
 0644. 🎨 style: apply consistent indentation
 0991. ♻️ chore: clean up unused files
+0144. ✅ test: increase coverage on auth module
