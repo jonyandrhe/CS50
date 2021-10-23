@@ -133,3 +133,4 @@
 0991. ♻️ chore: clean up unused files
 0144. ✅ test: increase coverage on auth module
 0049. 🐛 fix: handle 500 error in quiz API
+0706. ✨ feat: support email verification
