@@ -146,3 +146,4 @@
 0937. 🐛 fix: handle 500 error in quiz API
 0355. 🚀 perf: optimize database query for quiz results
 0600. 🐛 fix: prevent crash on empty input
+0036. 🔧 refactor: clean up auth middleware
