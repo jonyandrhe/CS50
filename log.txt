@@ -155,3 +155,4 @@
 0418. ✅ test: mock database connection in test suite
 0472. 🐛 fix: fix null pointer exception on login
 0095. ✅ test: mock database connection in test suite
+0048. 📚 docs: update README with setup steps
