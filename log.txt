@@ -159,3 +159,4 @@
 0731. 🎨 style: standardize quote style
 0092. 🚀 perf: reduce image load time
 0320. 📚 docs: update README with setup steps
+0820. 📚 docs: add API usage examples
