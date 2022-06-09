@@ -173,3 +173,4 @@
 0375. 🐛 fix: handle 500 error in quiz API
 0522. 🐛 fix: handle 500 error in quiz API
 0942. ✅ test: increase coverage on auth module
+0348. ✅ test: test user registration edge cases
