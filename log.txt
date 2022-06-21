@@ -176,3 +176,4 @@
 0348. ✅ test: test user registration edge cases
 0255. 🔧 refactor: refactor quiz grading logic
 0323. 📚 docs: clarify environment setup
+0409. 🚀 perf: lazy-load components
