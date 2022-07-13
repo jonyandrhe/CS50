@@ -180,3 +180,4 @@
 0155. ✨ feat: create admin dashboard
 0150. 🎨 style: remove trailing whitespace
 0536. ✨ feat: add user authentication
+0408. ♻️ chore: add GitHub actions badge
