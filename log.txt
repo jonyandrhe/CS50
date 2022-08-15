@@ -183,3 +183,4 @@
 0408. ♻️ chore: add GitHub actions badge
 0548. 📚 docs: write FAQ section
 0543. ✨ feat: support email verification
+0531. 🐛 fix: prevent crash on empty input
