@@ -184,3 +184,4 @@
 0548. 📚 docs: write FAQ section
 0543. ✨ feat: support email verification
 0531. 🐛 fix: prevent crash on empty input
+0582. ✨ feat: add export to CSV option
