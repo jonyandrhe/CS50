@@ -187,3 +187,4 @@
 0582. ✨ feat: add export to CSV option
 0701. 🔧 refactor: clean up auth middleware
 0831. 📚 docs: clarify environment setup
+0610. 🚀 perf: lazy-load components
