@@ -190,3 +190,4 @@
 0610. 🚀 perf: lazy-load components
 0720. ✨ feat: add export to CSV option
 0616. 🚀 perf: lazy-load components
+0690. 🚀 perf: lazy-load components
