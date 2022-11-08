@@ -199,3 +199,4 @@
 0249. ✅ test: increase coverage on auth module
 0509. ♻️ chore: bump dependencies
 0791. 🔧 refactor: clean up auth middleware
+0859. ✨ feat: create admin dashboard
