@@ -203,3 +203,4 @@
 0268. 🐛 fix: prevent crash on empty input
 0599. ✅ test: test user registration edge cases
 0511. 🐛 fix: fix broken CSS in mobile view
+0218. 🔧 refactor: clean up auth middleware
