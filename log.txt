@@ -218,3 +218,4 @@
 0006. 🐛 fix: prevent crash on empty input
 0996. ✅ test: test user registration edge cases
 0849. 🐛 fix: correct typo in registration form
+0592. 📚 docs: add API usage examples
