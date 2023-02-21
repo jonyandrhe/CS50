@@ -221,3 +221,4 @@
 0592. 📚 docs: add API usage examples
 0478. 🐛 fix: resolve issue with date parsing
 0084. 🐛 fix: handle 500 error in quiz API
+0101. 📚 docs: clarify environment setup
