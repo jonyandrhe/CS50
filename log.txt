@@ -222,3 +222,4 @@
 0478. 🐛 fix: resolve issue with date parsing
 0084. 🐛 fix: handle 500 error in quiz API
 0101. 📚 docs: clarify environment setup
+0090. ✅ test: increase coverage on auth module
