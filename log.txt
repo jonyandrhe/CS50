@@ -223,3 +223,4 @@
 0084. 🐛 fix: handle 500 error in quiz API
 0101. 📚 docs: clarify environment setup
 0090. ✅ test: increase coverage on auth module
+0371. ✅ test: add integration test for /submit endpoint
