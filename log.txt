@@ -239,3 +239,4 @@
 0471. ✨ feat: support email verification
 0149. ✨ feat: add export to CSV option
 0334. 🚀 perf: cache repeated calculations
+0537. 🔧 refactor: remove redundant code blocks
