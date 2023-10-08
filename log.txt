@@ -256,3 +256,4 @@
 0541. 🐛 fix: correct typo in registration form
 0479. 🐛 fix: fix null pointer exception on login
 0754. 🐛 fix: handle 500 error in quiz API
+0999. 🔧 refactor: split large controller into smaller functions
