@@ -267,3 +267,4 @@
 0927. ♻️ chore: bump dependencies
 0209. ✨ feat: implement quiz timer feature
 0982. 🚀 perf: lazy-load components
+0605. ✨ feat: support email verification
