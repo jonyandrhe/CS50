@@ -287,3 +287,4 @@
 0105. 🐛 fix: correct typo in registration form
 0684. 🚀 perf: reduce image load time
 0994. 🚀 perf: reduce image load time
+0613. 🐛 fix: prevent crash on empty input
