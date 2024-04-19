@@ -294,3 +294,4 @@
 0121. ✨ feat: support email verification
 0225. 🚀 perf: reduce image load time
 0024. 📚 docs: write FAQ section
+0269. ✅ test: test user registration edge cases
