@@ -302,3 +302,4 @@
 0030. 🐛 fix: fix null pointer exception on login
 0298. ♻️ chore: update .gitignore
 0104. 🎨 style: apply consistent indentation
+0920. 🔧 refactor: organize models into subfolders
