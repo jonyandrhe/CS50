@@ -303,3 +303,4 @@
 0298. ♻️ chore: update .gitignore
 0104. 🎨 style: apply consistent indentation
 0920. 🔧 refactor: organize models into subfolders
+0923. ✨ feat: support email verification
