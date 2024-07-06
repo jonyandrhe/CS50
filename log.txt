@@ -309,3 +309,4 @@
 0373. 📚 docs: document token refresh logic
 0777. 📚 docs: document token refresh logic
 0895. ✨ feat: support email verification
+0354. 📚 docs: add API usage examples
