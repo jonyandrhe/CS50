@@ -312,3 +312,4 @@
 0354. 📚 docs: add API usage examples
 0332. 🎨 style: standardize quote style
 0050. ✨ feat: enable dark mode toggle
+0352. ✨ feat: add export to CSV option
