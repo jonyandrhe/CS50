@@ -317,3 +317,4 @@
 0085. ✨ feat: support email verification
 0351. ✨ feat: add export to CSV option
 0682. ♻️ chore: rename env.example
+0532. 🔧 refactor: split large controller into smaller functions
