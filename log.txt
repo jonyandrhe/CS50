@@ -341,3 +341,4 @@
 0553. 🐛 fix: correct typo in registration form
 0069. 🎨 style: rename variables for clarity
 0033. 🎨 style: apply consistent indentation
+0796. 🔧 refactor: refactor quiz grading logic
