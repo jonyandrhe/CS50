@@ -346,3 +346,4 @@
 0282. 🔧 refactor: remove redundant code blocks
 0759. 🔧 refactor: organize models into subfolders
 0633. ✨ feat: add user authentication
+0317. ✅ test: test user registration edge cases
