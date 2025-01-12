@@ -345,3 +345,4 @@
 0341. 🚀 perf: lazy-load components
 0282. 🔧 refactor: remove redundant code blocks
 0759. 🔧 refactor: organize models into subfolders
+0633. ✨ feat: add user authentication
