@@ -347,3 +347,4 @@
 0759. 🔧 refactor: organize models into subfolders
 0633. ✨ feat: add user authentication
 0317. ✅ test: test user registration edge cases
+0669. ✨ feat: enable dark mode toggle
