@@ -348,3 +348,4 @@
 0633. ✨ feat: add user authentication
 0317. ✅ test: test user registration edge cases
 0669. ✨ feat: enable dark mode toggle
+0710. 🐛 fix: fix broken CSS in mobile view
