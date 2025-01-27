@@ -409,3 +409,4 @@
 0884. 📚 docs: clarify environment setup
 0134. ✨ feat: implement quiz timer feature
 0716. ✨ feat: implement quiz timer feature
+0469. 🚀 perf: lazy-load components
