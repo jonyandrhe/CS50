@@ -420,3 +420,4 @@
 0657. 🎨 style: standardize quote style
 0061. ✨ feat: create admin dashboard
 0967. ♻️ chore: add GitHub actions badge
+0549. ✨ feat: enable dark mode toggle
