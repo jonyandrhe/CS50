@@ -421,3 +421,4 @@
 0061. ✨ feat: create admin dashboard
 0967. ♻️ chore: add GitHub actions badge
 0549. ✨ feat: enable dark mode toggle
+0192. ✨ feat: enable dark mode toggle
