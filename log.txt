@@ -427,3 +427,4 @@
 0283. ♻️ chore: add GitHub actions badge
 0205. 📚 docs: update README with setup steps
 0764. ✨ feat: add user authentication
+0783. 🐛 fix: handle 500 error in quiz API
