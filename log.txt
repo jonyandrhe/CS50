@@ -429,3 +429,4 @@
 0764. ✨ feat: add user authentication
 0783. 🐛 fix: handle 500 error in quiz API
 0609. 🐛 fix: handle 500 error in quiz API
+0096. 🐛 fix: prevent crash on empty input
