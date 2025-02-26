@@ -439,3 +439,4 @@
 0383. 🐛 fix: fix broken CSS in mobile view
 0676. 🐛 fix: prevent crash on empty input
 0922. 📚 docs: write FAQ section
+0937. 🐛 fix: handle 500 error in quiz API
