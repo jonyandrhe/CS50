@@ -359,3 +359,4 @@
 0337. 📚 docs: document token refresh logic
 0685. ✅ test: test user registration edge cases
 0154. 🐛 fix: prevent crash on empty input
+0483. 📚 docs: update README with setup steps
