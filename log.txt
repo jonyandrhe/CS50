@@ -448,3 +448,4 @@
 0648. ♻️ chore: bump dependencies
 0451. ✨ feat: support email verification
 0495. 🔧 refactor: remove redundant code blocks
+0947. 📚 docs: write FAQ section
