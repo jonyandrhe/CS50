@@ -461,3 +461,4 @@
 0811. 🎨 style: reformat files with black
 0862. ♻️ chore: bump dependencies
 0282. 🔧 refactor: remove redundant code blocks
+0641. 📚 docs: write FAQ section
