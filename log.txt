@@ -462,3 +462,4 @@
 0862. ♻️ chore: bump dependencies
 0282. 🔧 refactor: remove redundant code blocks
 0641. 📚 docs: write FAQ section
+0551. 📚 docs: write FAQ section
