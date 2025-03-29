@@ -366,3 +366,4 @@
 0568. 🐛 fix: handle 500 error in quiz API
 0631. ✨ feat: create admin dashboard
 0221. ✨ feat: add user authentication
+0331. 🐛 fix: fix broken CSS in mobile view
