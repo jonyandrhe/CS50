@@ -469,3 +469,4 @@
 0678. ✨ feat: add user authentication
 0611. ✅ test: test user registration edge cases
 0161. ✨ feat: create admin dashboard
+0220. 🐛 fix: fix null pointer exception on login
