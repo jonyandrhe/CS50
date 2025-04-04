@@ -471,3 +471,4 @@
 0161. ✨ feat: create admin dashboard
 0220. 🐛 fix: fix null pointer exception on login
 0771. 🚀 perf: cache repeated calculations
+0898. 🐛 fix: fix broken CSS in mobile view
