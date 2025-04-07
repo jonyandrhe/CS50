@@ -367,3 +367,4 @@
 0631. ✨ feat: create admin dashboard
 0221. ✨ feat: add user authentication
 0331. 🐛 fix: fix broken CSS in mobile view
+0870. ♻️ chore: clean up unused files
