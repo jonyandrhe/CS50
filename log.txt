@@ -368,3 +368,4 @@
 0221. ✨ feat: add user authentication
 0331. 🐛 fix: fix broken CSS in mobile view
 0870. ♻️ chore: clean up unused files
+0726. ✨ feat: enable dark mode toggle
