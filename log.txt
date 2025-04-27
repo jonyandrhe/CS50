@@ -492,3 +492,4 @@
 0547. 📚 docs: write FAQ section
 0212. 🎨 style: standardize quote style
 0910. 🎨 style: remove trailing whitespace
+0492. 🎨 style: remove trailing whitespace
