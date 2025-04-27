@@ -493,3 +493,4 @@
 0212. 🎨 style: standardize quote style
 0910. 🎨 style: remove trailing whitespace
 0492. 🎨 style: remove trailing whitespace
+0766. 🎨 style: reformat files with black
