@@ -494,3 +494,4 @@
 0910. 🎨 style: remove trailing whitespace
 0492. 🎨 style: remove trailing whitespace
 0766. 🎨 style: reformat files with black
+0118. 🚀 perf: reduce image load time
