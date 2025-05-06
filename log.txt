@@ -502,3 +502,4 @@
 0891. ✨ feat: create admin dashboard
 0581. ✅ test: add integration test for /submit endpoint
 0131. 📚 docs: write FAQ section
+0959. 🐛 fix: fix null pointer exception on login
