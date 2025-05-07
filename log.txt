@@ -503,3 +503,4 @@
 0581. ✅ test: add integration test for /submit endpoint
 0131. 📚 docs: write FAQ section
 0959. 🐛 fix: fix null pointer exception on login
+0331. 🐛 fix: fix broken CSS in mobile view
