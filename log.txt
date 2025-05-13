@@ -504,3 +504,4 @@
 0131. 📚 docs: write FAQ section
 0959. 🐛 fix: fix null pointer exception on login
 0331. 🐛 fix: fix broken CSS in mobile view
+0703. 🔧 refactor: clean up auth middleware
