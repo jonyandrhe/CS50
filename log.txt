@@ -506,3 +506,4 @@
 0331. 🐛 fix: fix broken CSS in mobile view
 0703. 🔧 refactor: clean up auth middleware
 0930. 🎨 style: apply consistent indentation
+0796. 🔧 refactor: refactor quiz grading logic
