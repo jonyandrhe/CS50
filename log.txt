@@ -511,3 +511,4 @@
 0056. ♻️ chore: rename env.example
 0853. 🔧 refactor: refactor quiz grading logic
 0639. 🐛 fix: correct typo in registration form
+0347. ♻️ chore: update .gitignore
