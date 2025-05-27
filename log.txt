@@ -520,3 +520,4 @@
 0153. ♻️ chore: rename env.example
 0905. ♻️ chore: bump dependencies
 0608. 🔧 refactor: remove redundant code blocks
+0502. 📚 docs: update README with setup steps
