@@ -523,3 +523,4 @@
 0502. 📚 docs: update README with setup steps
 0595. ✨ feat: enable dark mode toggle
 0833. ✨ feat: add user authentication
+0672. 🐛 fix: fix broken CSS in mobile view
