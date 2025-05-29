@@ -522,3 +522,4 @@
 0608. 🔧 refactor: remove redundant code blocks
 0502. 📚 docs: update README with setup steps
 0595. ✨ feat: enable dark mode toggle
+0833. ✨ feat: add user authentication
