@@ -525,3 +525,4 @@
 0833. ✨ feat: add user authentication
 0672. 🐛 fix: fix broken CSS in mobile view
 0408. ♻️ chore: add GitHub actions badge
+0864. 🐛 fix: correct typo in registration form
