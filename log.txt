@@ -528,3 +528,4 @@
 0864. 🐛 fix: correct typo in registration form
 0361. ✨ feat: support email verification
 0593. 🐛 fix: correct typo in registration form
+0988. 🐛 fix: fix broken CSS in mobile view
