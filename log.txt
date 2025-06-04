@@ -529,3 +529,4 @@
 0361. ✨ feat: support email verification
 0593. 🐛 fix: correct typo in registration form
 0988. 🐛 fix: fix broken CSS in mobile view
+0108. 🎨 style: remove trailing whitespace
