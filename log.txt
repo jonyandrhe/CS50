@@ -532,3 +532,4 @@
 0108. 🎨 style: remove trailing whitespace
 0990. ♻️ chore: rename env.example
 0664. ✅ test: add unit test for quiz service
+0206. 🐛 fix: handle 500 error in quiz API
