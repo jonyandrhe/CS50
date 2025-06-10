@@ -535,3 +535,4 @@
 0206. 🐛 fix: handle 500 error in quiz API
 0136. 🚀 perf: lazy-load components
 0829. 🔧 refactor: organize models into subfolders
+0500. ✅ test: add integration test for /submit endpoint
