@@ -561,3 +561,4 @@
 0634. 🎨 style: reformat files with black
 0487. 🎨 style: reformat files with black
 0759. 🔧 refactor: organize models into subfolders
+0679. ♻️ chore: bump dependencies
