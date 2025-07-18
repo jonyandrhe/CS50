@@ -567,3 +567,4 @@
 0168. ✅ test: add integration test for /submit endpoint
 0208. 🔧 refactor: clean up auth middleware
 0670. ✨ feat: add export to CSV option
+0895. ✨ feat: support email verification
