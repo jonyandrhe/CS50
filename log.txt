@@ -569,3 +569,4 @@
 0670. ✨ feat: add export to CSV option
 0895. ✨ feat: support email verification
 0953. 🎨 style: remove trailing whitespace
+0040. 🔧 refactor: clean up auth middleware
