@@ -573,3 +573,4 @@
 0431. 🎨 style: reformat files with black
 0160. ♻️ chore: bump dependencies
 0794. ♻️ chore: clean up unused files
+0535. 📚 docs: write FAQ section
