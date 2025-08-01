@@ -574,3 +574,4 @@
 0160. ♻️ chore: bump dependencies
 0794. ♻️ chore: clean up unused files
 0535. 📚 docs: write FAQ section
+0107. 🐛 fix: prevent crash on empty input
