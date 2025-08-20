@@ -585,3 +585,4 @@
 0877. 🚀 perf: optimize database query for quiz results
 0011. ✅ test: add unit test for quiz service
 0137. 🎨 style: rename variables for clarity
+0265. 🎨 style: reformat files with black
