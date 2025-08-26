@@ -588,3 +588,4 @@
 0265. 🎨 style: reformat files with black
 0186. ✅ test: test user registration edge cases
 0041. 🐛 fix: fix broken CSS in mobile view
+0219. ✅ test: increase coverage on auth module
